@@ -1,5 +1,7 @@
 # Parse Server on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/parse-server-1?utm_medium=integration&utm_source=button&utm_campaign=parse-server)
+
 This repo is the source of the [Parse Server](https://railway.com/deploy/parse-server-1) Railway template. It deploys:
 
 | Service | Built from | Version |

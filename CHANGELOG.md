@@ -2,6 +2,10 @@
 
 Changes to the [Parse Server Railway template](https://railway.com/deploy/parse-server-1). Breaking changes come first in each entry. A merge to `main` sends an "update available" notice to everyone who deployed the template from this repo: read the entry before you apply it.
 
+## 2026-11-16: Deploy on Railway button
+
+- README: added the Deploy on Railway button, linked to the published template `parse-server-1`. No change to the services.
+
 ## 2026-11-16: Parse Server 9.11.0, Parse Dashboard 10.0.0
 
 **Breaking for people moving from the old image-based template (Parse Server 8.6, Dashboard 9.2):**
